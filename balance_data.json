@@ -33,5 +33,10 @@
     "quota": 3725.0,
     "used": 0.0,
     "timestamp": 1775307983.2792518
+  },
+  "linuxdo-any_cookies": {
+    "quota": 403.16,
+    "used": 2580.59,
+    "timestamp": 1788152545.2926745
   }
 }
